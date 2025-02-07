@@ -23,6 +23,9 @@
 - React
 - MongoDB
 
+## Схема БД
+https://drive.google.com/file/d/1KHbtQYTkqydZLx2NXw1sTGA6Rw2C5e8Y/view?usp=sharing
+
 ## Project setup
 
 ```bash
